@@ -32,7 +32,7 @@
       hero_img_caption: 'Web developer from Riyadh',
 
       about_title: 'About Me',
-      about_p1: "I'm a Programming and Web Development diploma student currently in my final semester and completing my cooperative training.",
+      about_p1: " Programming and Web Development diploma student currently in my final semester and completing my cooperative training.",
       about_p2: "I'm interested in web development, UI design, programming, and game development. I enjoy turning ideas into practical projects and continuously improving my technical skills through hands-on experience.",
       quickfacts_aria: 'Quick facts',
       quickfacts_title: 'Quick facts',
