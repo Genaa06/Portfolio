@@ -32,7 +32,7 @@
       hero_img_caption: 'Web developer from Riyadh',
 
       about_title: 'About Me',
-      about_p1: " Programming and Web Development diploma student currently in my final semester and completing my cooperative training.",
+      about_p1: "  Programming and Web Development diploma student currently in my final semester and completing my cooperative training.",
       about_p2: "I'm interested in web development, UI design, programming, and game development. I enjoy turning ideas into practical projects and continuously improving my technical skills through hands-on experience.",
       quickfacts_aria: 'Quick facts',
       quickfacts_title: 'Quick facts',
@@ -102,7 +102,7 @@
       hero_img_caption: 'مطورة ويب من الرياض',
 
       about_title: 'نبذة عني',
-      about_p1: 'أنا طالبة دبلوم في تقنية البرمجة وتطوير الويب، حاليًا في آخر فصل دراسي وأتم تدريبي التعاوني.',
+      about_p1: ' طالبة دبلوم في تقنية البرمجة وتطوير الويب، حاليًا في آخر فصل دراسي وأتم تدريبي التعاوني.',
       about_p2: 'أهتم بتطوير الويب وتصميم واجهات المستخدم والبرمجة وتطوير الألعاب. أستمتع بتحويل الأفكار إلى مشاريع عملية، وأطوّر مهاراتي التقنية باستمرار من خلال التجربة العملية.',
       quickfacts_aria: 'معلومات سريعة',
       quickfacts_title: 'معلومات سريعة',
