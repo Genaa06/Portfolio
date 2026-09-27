@@ -44,7 +44,7 @@
 
       skills_title: 'Skills',
       skills_subtitle: 'Technologies and tools I work with, grouped by area.',
-      skills_cat_web: 'Web Development', skills_cat_prog: 'Programming',
+      skills_cat_web: 'Web Development', skills_cat_prog: 'Database',
       skills_cat_game: 'Game Development', skills_cat_tools: 'Tools',
 
       projects_title: 'Projects',
@@ -94,7 +94,7 @@
 
       hero_badge: 'تدريب تعاوني في Shafra Games',
       hero_greeting: 'مرحبًا، أنا غنى',
-      hero_role: 'مطورة ويب وبرمجة',
+      hero_role: 'مطورة ويب ومبرمجة',
       hero_bio: 'طالبة دبلوم في تقنية البرمجة وتطوير الويب في آخر فصل دراسي لي، حاليًا أخوض تدريبي التعاوني وأبني مشاريع عملية في تطوير الويب والبرمجة وتطوير الألعاب.',
       hero_btn_projects: 'استعرض مشاريعي',
       hero_btn_contact: 'تواصل معي',
@@ -113,8 +113,8 @@
       trait_1: 'سرعة التعلم', trait_2: 'إدارة الوقت', trait_3: 'العمل ضمن فريق', trait_4: 'المبادرة',
 
       skills_title: 'المهارات',
-      skills_subtitle: 'التقنيات والأدوات اللي أشتغل فيها، مقسّمة حسب المجال.',
-      skills_cat_web: 'تطوير الويب', skills_cat_prog: 'البرمجة',
+      skills_subtitle: 'التقنيات والأدوات التي أعمل بها، مقسّمة حسب المجال.',
+      skills_cat_web: 'تطوير الويب', skills_cat_prog: 'قواعد البيانات',
       skills_cat_game: 'تطوير الألعاب', skills_cat_tools: 'أدوات',
 
       projects_title: 'المشاريع',
@@ -124,13 +124,13 @@
       proj1_name: 'أُسَر',
       proj1_desc: 'منصة ويب تجمع الأسر المنتجة في مكان واحد، وتساعدها على إدارة منتجاتها ومخزونها وطلباتها ومبيعاتها وفواتيرها.',
       proj1_img_alt: 'رسم توضيحي لواجهة موقع أُسَر: شريط تنقل وبانر وبطاقات للأسر المنتجة',
-      proj2_desc: 'منصة ويب لتقييم الألعاب ومراجعتها، يشارك فيها المستخدمون آرائهم ويشوفون متوسط تقييم كل لعبة.',
+      proj2_desc: 'يمكن للمستخدمين مشاركة آرائهم والاطلاع على متوسط تقييم كل لعبة.',
       proj2_img_alt: 'رسم توضيحي لواجهة موقع Rategames: يد ألعاب وقائمة مراجعات بنجوم التقييم',
       proj3_name: 'نظام إدارة مكتبة',
       proj3_desc: 'نظام ويب لإدارة كتب وسجلات المكتبة، مبني بدون قاعدة بيانات.',
       proj3_img_alt: 'رسم توضيحي لواجهة موقع إدارة المكتبة: رفوف كتب وقائمة بيانات',
       proj4_name: 'نظام إدارة بيانات الطلاب',
-      proj4_desc: 'نظام ويب لإدارة سجلات الطلاب بعمليات إدخال كاملة: إضافة وحذف وتعديل.',
+      proj4_desc: 'نظام ويب لإدارة سجلات الطلاب، يتيح إضافة البيانات وتعديلها وحذفها.',
       proj4_img_alt: 'رسم توضيحي لجدول بيانات الطلاب مع أزرار التعديل والحذف',
 
       certificates_title: 'الشهادات',
